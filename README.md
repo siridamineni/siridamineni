@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siri Damineni</h1>
-<h3 align="center">Full Stack Developer | Building Seamless Frontend Experiences & Robust Backend Systems</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siridamineni&label=Profile%20views&color=0e75b6&style=flat" alt="siridamineni" /> </p>
 
